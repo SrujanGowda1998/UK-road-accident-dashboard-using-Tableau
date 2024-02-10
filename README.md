@@ -4,13 +4,22 @@
 
 
 User stories:
+
 ---> As a head of road safety authority of UK, I need a dashboard which shows year on year growth/ decline of accidents.
+
 ---> As a head of road safety authority of UK, I need a dashboard that gives a comparison of different vehicle type, weather conditions, road surfaces, road types in accidents taking place year on year. 
+
 ---> As a head of road safety authority of UK, I need a visual representation of accidents in different districts of UK with information regarding number of casualties reported. 
 
+
 Insights:
+
 ---> Single-carriageways accounted for 74.5% of accidents. 
+
 ---> Accidents are decreasing by 7% on an average every year in the UK
+
 ---> 32.2% of accidents occurred under non-normal road conditions(wet surface, snow, flooded roads etc.)
+
 ---> Cars accounted for 77.4% of accidents. 
+
 ---> 17% of accidents occurred under abnormal weather conditions.
